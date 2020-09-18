@@ -4,7 +4,7 @@ A quiz game developed in C.
 
 The game loads the questions and answers from a file(quiz_file.txt) and asks the user to guess the answer.
 It has 5 difficulty levels.
-The questions and answers file and difficulty level are provided as commanded line arguments.
+The questions and answers file and difficulty level are provided as command line arguments.
 
 Difficulty level 1: No clue and only a '?' is shown.
 Difficulty level 2: A set of blank dashes is displayed for each letter of the answer.
